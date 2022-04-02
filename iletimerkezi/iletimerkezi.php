@@ -5,7 +5,6 @@ namespace App\Main\Plugin\iletimerkezi;
 
 use App\Main\Model\plugin;
 use App\Main\Plugin\iletimerkezi\Controller\helper;
-//
 
 plugin::info([
     "title" => "İleti Merkezi SMS",
